@@ -48,9 +48,7 @@ int main() {
             v.push_back({s,e});
         }
 
-        if ((v[0].first <= v[1].second && v[0].first >= v[1].first)
-            ||
-            (v[1].first <= v[0].second && v[1].first >= v[0].first))
+        if (v[0].first <= v[1].second && v[1].first <= v[0].second)
             ans ++;
     }
 
