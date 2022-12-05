@@ -1,1 +1,3460 @@
+C Y
+B Y
+Z
+C X
+Z
+C X
+B X
+Z
+C X
+Z
+C X
+Z
+C X
+B X
+B Y
+Y
+B Z
+Y
+B Z
+Y
+B Z
+C Y
+C Z
+B Y
+Z
+C X
+C Z
+C Y
+B Y
+C Z
+Z
+C X
+A X
+B Y
+C Y
+C Y
+C Z
+B Y
+B X
+Z
+C X
+B Y
+Y
+B Z
+C Z
+A Z
+B Y
+B X
+B Y
+B X
+Z
+C X
+B Y
+C Z
+X
+A Y
+B Y
+Z
+C X
+X
+A Y
+B Y
+B Y
+B Y
+C Z
+B Y
+A Z
+Z
+C X
+C Y
+Z
+C X
+A X
+C Y
+Z
+C X
+C Z
+C Z
+A X
+Z
+C X
+B Y
+Y
+B Z
+A Z
+Z
+C X
+B Y
+C Y
+B X
+Z
+C X
+Z
+C X
+B Y
+Z
+C X
+X
+A Y
+C Y
+C Z
+B X
+C Y
+Z
+C X
+Y
+B Z
+Y
+B Z
+Y
+B Z
+B Y
+A Z
+B Y
+C Z
+Y
+B Z
+B Y
+C Z
+C Y
+Y
+B Z
+C Y
+B Y
+A X
+B X
+Z
+C X
+X
+A Y
+C Z
+C Z
+X
+A Y
+Y
+B Z
+Y
+B Z
+Z
+C X
+B X
+B X
+C Z
+Z
+C X
+B X
+B X
+X
+A Y
+C Y
+Z
+C X
+A X
+Y
+B Z
+B Y
+B Y
+Z
+C X
+C Y
+Y
+B Z
+A Z
+B Y
+Y
+B Z
+Y
+B Z
+X
+A Y
+A X
+B X
+B Y
+A Z
+C Z
+B Y
+B Y
+B Y
+B Y
+B X
+Z
+C X
+Z
+C X
+Z
+C X
+Z
+C X
+Y
+B Z
+Z
+C X
+A Z
+Z
+C X
+C Y
+Y
+B Z
+C Y
+X
+A Y
+A X
+Y
+B Z
+A X
+A Z
+B Y
+X
+A Y
+Z
+C X
+Z
+C X
+B X
+Z
+C X
+A X
+Z
+C X
+B Y
+Z
+C X
+C Y
+X
+A Y
+B Y
+B Y
+C Y
+X
+A Y
+Z
+C X
+B X
+B Y
+C Y
+B X
+B X
+Y
+B Z
+B Y
+X
+A Y
+Z
+C X
+B X
+B Y
+Y
+B Z
+Y
+B Z
+Z
+C X
+Z
+C X
+C Z
+X
+A Y
+X
+A Y
+C Z
+B Y
+B Y
+B Y
+B Y
+Y
+B Z
+C Y
+B Y
+A X
+C Y
+X
+A Y
+X
+A Y
+X
+A Y
+C Y
+B Y
+Y
+B Z
+Y
+B Z
+Z
+C X
+Y
+B Z
+C Y
+A Z
+X
+A Y
+Y
+B Z
+C Y
+Z
+C X
+C Z
+Z
+C X
+B Y
+B X
+Z
+C X
+A X
+B X
+A Z
+Y
+B Z
+C Z
+B Y
+B Y
+B Y
+B X
+B Y
+C Y
+Z
+C X
+B Y
+C Y
+Z
+C X
+C Y
+Z
+C X
+Y
+B Z
+Y
+B Z
+Y
+B Z
+A Z
+B Y
+Z
+C X
+Z
+C X
+B Y
+C Y
+A Z
+X
+A Y
+Y
+B Z
+B X
+C Y
+A Z
+B Y
+B Y
+C Z
+Y
+B Z
+B X
+X
+A Y
+C Z
+B Y
+C Y
+B Y
+C Y
+Y
+B Z
+A Z
+A X
+C Y
+A Z
+C Z
+B Y
+B Y
+A X
+Z
+C X
+B Y
+C Y
+B Y
+C Y
+Z
+C X
+C Y
+Z
+C X
+C Z
+Y
+B Z
+Y
+B Z
+X
+A Y
+C Y
+B X
+Z
+C X
+C Z
+B Y
+Y
+B Z
+Y
+B Z
+B Y
+Z
+C X
+Y
+B Z
+B X
+Z
+C X
+Z
+C X
+Z
+C X
+B Y
+C Y
+C Z
+Y
+B Z
+B Y
+A X
+C Y
+Y
+B Z
+X
+A Y
+B Y
+B Y
+C Y
+C Z
+Z
+C X
+C Y
+C Y
+C Y
+Z
+C X
+X
+A Y
+X
+A Y
+C Y
+Z
+C X
+C Z
+C Z
+Z
+C X
+Z
+C X
+Z
+C X
+C Y
+B X
+B Y
+B X
+C Z
+C Z
+B Y
+Z
+C X
+C Y
+B Y
+C Y
+Y
+B Z
+B Y
+Y
+B Z
+B X
+B X
+C Y
+Z
+C X
+C Y
+C Y
+Z
+C X
+Z
+C X
+B Y
+C Y
+B Y
+C Z
+Z
+C X
+Y
+B Z
+B Y
+C Y
+C Y
+A Z
+Z
+C X
+C Z
+Y
+B Z
+Y
+B Z
+B Y
+Z
+C X
+Z
+C X
+B Y
+Y
+B Z
+A X
+C Y
+X
+A Y
+C Z
+C Y
+B Y
+A Z
+X
+A Y
+C Y
+Z
+C X
+B Y
+B Y
+A X
+X
+A Y
+A X
+Z
+C X
+X
+A Y
+X
+A Y
+Z
+C X
+B Y
+C Y
+C Y
+B Y
+C Y
+Y
+B Z
+B Y
+C Z
+B Y
+B Y
+B Y
+A X
+Z
+C X
+B Y
+C Y
+Z
+C X
+C Y
+B Y
+B Y
+Z
+C X
+B Y
+Z
+C X
+Z
+C X
+B Y
+B Y
+C Y
+Z
+C X
+C Y
+A X
+A X
+Y
+B Z
+Z
+C X
+B Y
+C Y
+B Y
+C Y
+C Z
+C Y
+A X
+C Z
+B Y
+Y
+B Z
+Z
+C X
+X
+A Y
+B X
+Z
+C X
+Y
+B Z
+B X
+A X
+Z
+C X
+A X
+B Y
+X
+A Y
+B Y
+C Y
+B X
+Z
+C X
+Y
+B Z
+Z
+C X
+B Y
+C Y
+Y
+B Z
+B Y
+X
+A Y
+B Y
+Z
+C X
+C Y
+Z
+C X
+A X
+X
+A Y
+B X
+X
+A Y
+B Y
+B Y
+B Y
+Z
+C X
+C Y
+Y
+B Z
+Z
+C X
+A Z
+Z
+C X
+C Y
+B X
+X
+A Y
+C Z
+X
+A Y
+B Y
+C Z
+A X
+C Y
+X
+A Y
+Z
+C X
+X
+A Y
+Y
+B Z
+Z
+C X
+A X
+Z
+C X
+C Z
+B Y
+B Y
+B Y
+C Y
+Y
+B Z
+B Y
+C Y
+C Z
+Z
+C X
+Z
+C X
+B X
+C Y
+B Y
+A X
+B Y
+Z
+C X
+B X
+X
+A Y
+Y
+B Z
+Z
+C X
+C Y
+Z
+C X
+B X
+B Y
+C Z
+Y
+B Z
+B Y
+Z
+C X
+Z
+C X
+B X
+Z
+C X
+A X
+Y
+B Z
+B Y
+B Y
+Y
+B Z
+Y
+B Z
+B Y
+B Y
+B X
+B Y
+X
+A Y
+B Y
+C Y
+Y
+B Z
+A X
+Y
+B Z
+Z
+C X
+Z
+C X
+B Y
+Y
+B Z
+B Y
+C Y
+C Z
+C Z
+C Z
+Z
+C X
+C Y
+C Y
+Z
+C X
+X
+A Y
+Z
+C X
+B Y
+B Y
+X
+A Y
+Z
+C X
+B Y
+B Y
+C Y
+C Z
+B Y
+A X
+Z
+C X
+C Y
+Z
+C X
+B Y
+Z
+C X
+C Y
+B X
+B X
+C Y
+C Y
+C Y
+Y
+B Z
+X
+A Y
+B Y
+Z
+C X
+B Y
+Y
+B Z
+B Y
+C Z
+X
+A Y
+Y
+B Z
+B Y
+C Z
+C Y
+B Y
+C Z
+Z
+C X
+C Z
+B Y
+Z
+C X
+Z
+C X
+Y
+B Z
+C Y
+C Z
+C Y
+C Y
+Z
+C X
+C Y
+Z
+C X
+C Z
+A X
+X
+A Y
+Z
+C X
+C Y
+B Y
+B Y
+C Y
+Z
+C X
+A X
+Y
+B Z
+B Y
+Z
+C X
+C Y
+B X
+B Y
+Y
+B Z
+Y
+B Z
+B Y
+A X
+C Y
+Z
+C X
+C Y
+X
+A Y
+A X
+C Y
+A Z
+C Z
+A Z
+B Y
+Z
+C X
+A X
+C Y
+Z
+C X
+B Y
+B Y
+Y
+B Z
+B Y
+B X
+B X
+C Y
+X
+A Y
+Y
+B Z
+X
+A Y
+X
+A Y
+A Z
+B Y
+C Y
+Z
+C X
+Z
+C X
+B Y
+C Y
+C Y
+A Z
+X
+A Y
+B X
+Z
+C X
+Z
+C X
+B Y
+C Y
+Y
+B Z
+Y
+B Z
+A X
+B Y
+C Y
+B Y
+B Y
+B X
+Z
+C X
+A X
+C Y
+B Y
+Z
+C X
+B X
+X
+A Y
+X
+A Y
+B X
+B Y
+C Y
+Y
+B Z
+A X
+Z
+C X
+Z
+C X
+B Y
+B X
+X
+A Y
+Y
+B Z
+B Y
+A X
+X
+A Y
+B Y
+B X
+Y
+B Z
+Y
+B Z
+X
+A Y
+A Z
+A X
+A X
+B X
+C Y
+C Z
+B X
+A Z
+Y
+B Z
+B Y
+Z
+C X
+B Y
+Z
+C X
+C Z
+C Y
+A X
+Y
+B Z
+X
+A Y
+B X
+B X
+B Y
+C Y
+B X
+A X
+C Y
+C Z
+B Y
+Y
+B Z
+Z
+C X
+A X
+A Z
+Z
+C X
+Z
+C X
+C Y
+X
+A Y
+C Y
+A X
+Y
+B Z
+B Y
+C Y
+B X
+A X
+Y
+B Z
+C Y
+B Y
+C Y
+B X
+X
+A Y
+B Y
+C Z
+C Y
+C Y
+Z
+C X
+X
+A Y
+C Z
+B Y
+Z
+C X
+Z
+C X
+B Y
+Z
+C X
+C Z
+B Y
+C Y
+C Y
+B Y
+B X
+A X
+Z
+C X
+B Y
+X
+A Y
+C Y
+C Z
+B Y
+B Y
+B Y
+X
+A Y
+A X
+B X
+B Y
+B Y
+Y
+B Z
+B X
+Z
+C X
+B Y
+C Y
+Z
+C X
+C Y
+C Z
+B Y
+C Z
+X
+A Y
+B Y
+C Z
+B Y
+B Y
+A X
+Z
+C X
+C Z
+C Z
+A Z
+Z
+C X
+Z
+C X
+Z
+C X
+A X
+B Y
+Z
+C X
+Y
+B Z
+X
+A Y
+Y
+B Z
+C Y
+Z
+C X
+Z
+C X
+A Z
+C Z
+Z
+C X
+C Z
+C Z
+C Y
+C Z
+C Y
+X
+A Y
+C Y
+C Y
+B X
+Z
+C X
+B Y
+Z
+C X
+B Y
+B X
+Z
+C X
+B Y
+C Z
+Z
+C X
+C Y
+A Z
+Z
+C X
+A X
+C Z
+B Y
+Y
+B Z
+Y
+B Z
+Y
+B Z
+B Y
+B X
+B Y
+Z
+C X
+B X
+B X
+B Y
+C Z
+Z
+C X
+X
+A Y
+C Z
+B Y
+Y
+B Z
+C Y
+C Y
+Y
+B Z
+B Y
+C Y
+Z
+C X
+Z
+C X
+C Y
+C Z
+B Y
+C Z
+Z
+C X
+Z
+C X
+Y
+B Z
+Z
+C X
+B X
+Y
+B Z
+X
+A Y
+X
+A Y
+Z
+C X
+C Z
+Z
+C X
+C Y
+B Y
+B Y
+Z
+C X
+B Y
+B Y
+X
+A Y
+A X
+Y
+B Z
+Z
+C X
+C Y
+B Y
+C Y
+Z
+C X
+Y
+B Z
+C Y
+C Z
+B X
+Z
+C X
+C Z
+X
+A Y
+Z
+C X
+Z
+C X
+Z
+C X
+Z
+C X
+Z
+C X
+X
+A Y
+B Y
+X
+A Y
+X
+A Y
+X
+A Y
+C Y
+Y
+B Z
+Y
+B Z
+B Y
+A X
+Z
+C X
+C Y
+Y
+B Z
+A X
+B Y
+C Y
+Z
+C X
+Y
+B Z
+C Z
+A X
+Z
+C X
+Y
+B Z
+Y
+B Z
+Y
+B Z
+Z
+C X
+Z
+C X
+Z
+C X
+C Z
+A X
+X
+A Y
+A X
+C Y
+C Z
+Z
+C X
+C Y
+B Y
+Y
+B Z
+Z
+C X
+B Y
+C Y
+A Z
+C Y
+B Y
+B Y
+B Y
+Z
+C X
+Z
+C X
+A Z
+B Y
+B Y
+Y
+B Z
+B X
+Z
+C X
+B Y
+C Y
+B X
+Z
+C X
+Z
+C X
+B Y
+Z
+C X
+C Z
+Z
+C X
+C Z
+C Z
+X
+A Y
+Z
+C X
+B Y
+A X
+A X
+B Y
+C Z
+B X
+A X
+C Y
+C Z
+B X
+C Y
+C Y
+Z
+C X
+C Y
+Z
+C X
+B Y
+C Y
+B X
+C Z
+Z
+C X
+Z
+C X
+Y
+B Z
+C Y
+B Y
+X
+A Y
+C Z
+B X
+B Y
+B Y
+B Y
+Z
+C X
+C Z
+X
+A Y
+C Y
+Y
+B Z
+C Z
+C Z
+C Y
+Z
+C X
+X
+A Y
+B X
+X
+A Y
+Z
+C X
+Y
+B Z
+B Y
+X
+A Y
+Z
+C X
+Y
+B Z
+A Z
+B Y
+B Y
+Z
+C X
+C Z
+Z
+C X
+C Y
+B Y
+C Y
+B Y
+A Z
+B X
+C Z
+B Y
+A X
+B Y
+Z
+C X
+C Y
+B Y
+Z
+C X
+C Z
+C Y
+C Y
+B X
+B Y
+C Y
+A Z
+B X
+Y
+B Z
+X
+A Y
+Y
+B Z
+C Z
+Y
+B Z
+B Y
+Z
+C X
+C Z
+B Y
+B Y
+C Y
+B Y
+Z
+C X
+B Y
+C Y
+B X
+Z
+C X
+Z
+C X
+B Y
+Z
+C X
+B Y
+B Y
+A X
+B Y
+B Y
+Z
+C X
+Y
+B Z
+C Y
+B X
+C Y
+B Y
+B Y
+Z
+C X
+Z
+C X
+Z
+C X
+C Y
+Z
+C X
+X
+A Y
+C Y
+B Y
+B X
+B Y
+Y
+B Z
+C Y
+A X
+A X
+Z
+C X
+C Y
+C Z
+C Y
+C Y
+Z
+C X
+A X
+C Y
+B Y
+Z
+C X
+C Y
+B Y
+X
+A Y
+B X
+Z
+C X
+X
+A Y
+C Y
+B X
+A X
+A X
+B Y
+B X
+B X
+B X
+C Z
+A Z
+X
+A Y
+B Y
+Y
+B Z
+Y
+B Z
+C Z
+C Y
+X
+A Y
+Z
+C X
+Y
+B Z
+C Y
+C Z
+X
+A Y
+Z
+C X
+C Y
+C Y
+B Y
+B Y
+Z
+C X
+A X
+Z
+C X
+B Y
+B Y
+Z
+C X
+Z
+C X
+Z
+C X
+Z
+C X
+Z
+C X
+B Y
+X
+A Y
+C Y
+B Y
+Z
+C X
+B X
+Y
+B Z
+C Z
+Z
+C X
+Z
+C X
+A Z
+Z
+C X
+A Z
+C Y
+Z
+C X
+A Z
+Z
+C X
+Z
+C X
+X
+A Y
+C Y
+C Y
+C Z
+Z
+C X
+A Z
+C Y
+B Y
+X
+A Y
+X
+A Y
+C Y
+B Y
+A Z
+Z
+C X
+B Y
+A X
+X
+A Y
+C Y
+B Y
+Y
+B Z
+C Z
+B Y
+B X
+B X
+B Y
+B X
+A Z
+B Y
+C Y
+B Y
+Z
+C X
+B X
+C Z
+Y
+B Z
+B X
+B Y
+C Y
+Y
+B Z
+B X
+A Z
+C Y
+B Y
+B Y
+C Z
+B Y
+C Y
+Z
+C X
+C Y
+C Y
+Y
+B Z
+Z
+C X
+C Z
+X
+A Y
+Z
+C X
+C Z
+C Y
+X
+A Y
+B Y
+B Y
+Y
+B Z
+B X
+A X
+B Y
+Z
+C X
+B Y
+Y
+B Z
+A Z
+C Y
+C Y
+B X
+X
+A Y
+Y
+B Z
+B X
+B Y
+Z
+C X
+B Y
+Y
+B Z
+B Y
+C Z
+A X
+C Z
+Z
+C X
+Y
+B Z
+A X
+B Y
+Z
+C X
+Y
+B Z
+X
+A Y
+C Y
+Z
+C X
+B Y
+Z
+C X
+X
+A Y
+Z
+C X
+C Z
+Z
+C X
+A Z
+B Y
+B Y
+B Y
+X
+A Y
+A X
+Y
+B Z
+Z
+C X
+X
+A Y
+B Y
+B Y
+B Y
+C Y
+X
+A Y
+X
+A Y
+X
+A Y
+C Y
+Z
+C X
+X
+A Y
+C Z
+B Y
+Z
+C X
+C Y
+B Y
+A X
+Z
+C X
+Z
+C X
+Z
+C X
+X
+A Y
+A Z
+B Y
+B X
+C Z
+B X
+Y
+B Z
+C Y
+X
+A Y
+Y
+B Z
+B Y
+A Z
+X
+A Y
+A X
+C Y
+Z
+C X
+C Y
+Z
+C X
+X
+A Y
+Y
+B Z
+Y
+B Z
+Y
+B Z
+Z
+C X
+C Z
+X
+A Y
+X
+A Y
+A X
+B Y
+Z
+C X
+Y
+B Z
+X
+A Y
+Z
+C X
+A Z
+B Y
+B Y
+C Y
+Z
+C X
+Y
+B Z
+B Y
+B X
+Z
+C X
+Y
+B Z
+A Z
+Y
+B Z
+Z
+C X
+B Y
+A Z
+C Z
+C Y
+C Y
+B Y
+Z
+C X
+B X
+X
+A Y
+B Y
+Z
+C X
+B Y
+Z
+C X
+A X
+Y
+B Z
+C Y
+C Y
+B Y
+C Z
+B X
+Z
+C X
+Z
+C X
+B Y
+B Y
+X
+A Y
+A X
+C Z
+X
+A Y
+Z
+C X
+A X
+X
+A Y
+C Y
+C Z
+Y
+B Z
+C Y
+B X
+C Y
+C Y
+B X
+B X
+Y
+B Z
+C Y
+C Y
+B Y
+X
+A Y
+C Y
+B Y
+B Y
+C Z
+B Y
+Z
+C X
+C Z
+X
+A Y
+A Z
+Z
+C X
+C Y
+Y
+B Z
+B X
+B Y
+A Z
+C Z
+B Y
+Y
+B Z
+B Y
+Z
+C X
+Z
+C X
+A X
+C Z
+C Y
+A Z
+C Z
+Z
+C X
+Y
+B Z
+B Y
+Z
+C X
+C Y
+C Z
+Y
+B Z
+Y
+B Z
+C Y
+Z
+C X
+C Y
+B Y
+X
+A Y
+B Y
+B Y
+Z
+C X
+B X
+C Y
+C Z
+X
+A Y
+Z
+C X
+B Y
+C Z
+B Y
+C Z
+A Z
+C Y
+B X
+C Y
+C Z
+Z
+C X
+B Y
+B X
+B Y
+Z
+C X
+C Z
+Y
+B Z
+C Y
+B Y
+B Y
+Z
+C X
+Z
+C X
+Z
+C X
+C Y
+B Y
+C Y
+Z
+C X
+C Y
+C Y
+C Z
+B Y
+Z
+C X
+Z
+C X
+B Y
+B Y
+B Y
+Y
+B Z
+C Z
+X
+A Y
+C Y
+Z
+C X
+A X
+C Y
+Z
+C X
+C Z
+B Y
+A Z
+Z
+C X
+B Y
+B X
+Y
+B Z
+A X
+X
+A Y
+C Y
+Z
+C X
+C Z
+B X
+Z
+C X
+A X
+B X
+X
+A Y
+B Y
+X
+A Y
+Z
+C X
+B Y
+C Y
+X
+A Y
+B Y
+Z
+C X
+Z
+C X
+C Z
+Y
+B Z
+C Y
+C Y
+B Y
+B Y
+Z
+C X
+Z
+C X
+B X
+Z
+C X
+A X
+B Y
+Z
+C X
+B X
+X
+A Y
+Z
+C X
+B X
+C Y
+B X
+C Z
+C Z
+X
+A Y
+B Y
+C Y
+Z
+C X
+X
+A Y
+Z
+C X
+B X
+Y
+B Z
+C Y
+C Z
+Z
+C X
+A X
+C Z
+Y
+B Z
+C Y
+Y
+B Z
+C Y
+Y
+B Z
+B Y
+Y
+B Z
+A X
+B Y
+A X
+B Y
+X
+A Y
+C Z
+Z
+C X
+Z
+C X
+A Z
+Z
+C X
+B X
+X
+A Y
+B Y
+Z
+C X
+A X
+Z
+C X
+B Y
+B X
+Z
+C X
+Z
+C X
+B Y
+C Y
+B X
+X
+A Y
+C Z
+Z
+C X
+B Y
+B Y
+C Y
+B Y
+B Y
+Y
+B Z
+A X
+C Y
+B X
+B Y
+B Y
+X
+A Y
+C Y
+C Z
+A X
+B Y
+Z
+C X
+B Y
+Z
+C X
+B Y
+C Y
+Y
+B Z
+Y
+B Z
+A Z
+X
+A Y
+B Y
+B X
+A Z
+B Y
+B Y
+C Y
+Z
+C X
+B Y
+C Y
+C Z
+Z
+C X
+B Y
+X
+A Y
+B Y
+X
+A Y
+Y
+B Z
+C Y
+X
+A Y
+B Y
+B Y
+Z
+C X
+X
+A Y
+X
+A Y
+B Y
+Y
+B Z
+Z
+C X
+B X
+Z
+C X
+Z
+C X
+B X
+Y
+B Z
+C Y
+Y
+B Z
+C Y
+B Y
+B Y
+A X
+Z
+C X
+B Y
+Z
+C X
+Z
+C X
+C Z
+C Y
+X
+A Y
+B Y
+Z
+C X
+Z
+C X
+B X
+C Y
+Z
+C X
+Y
+B Z
+X
+A Y
+C Y
+Z
+C X
+X
+A Y
+B Y
+B Y
+Z
+C X
+A Z
+X
+A Y
+Z
+C X
+Z
+C X
+B Y
+C Y
+B Y
+B Y
+C Z
+A X
+Z
+C X
+X
+A Y
+Y
+B Z
+X
+A Y
+B Y
+C Y
+Z
+C X
+B Y
+Z
+C X
+B Y
+Z
+C X
+Z
+C X
+Y
+B Z
+B X
+X
+A Y
+Y
+B Z
+Y
+B Z
+C Y
+C Y
+X
+A Y
+B X
+Y
+B Z
+B Y
+Z
+C X
+C Y
+Y
+B Z
+Y
+B Z
+Z
+C X
+B Y
+B Y
+C Y
+B X
+C Y
+Z
+C X
+B Y
+X
+A Y
+Y
+B Z
+B Y
+Y
+B Z
+B X
+Z
+C X
+C Z
+Z
+C X
+A Z
+Z
+C X
+A X
+C Z
+X
+A Y
+Z
+C X
+B X
+A Z
+B Y
+X
+A Y
+A X
+Y
+B Z
+B Y
+B X
+C Z
+C Z
+Y
+B Z
+A Z
+C Y
+B Y
+Z
+C X
+B Y
+B Y
+B X
+A Z
+Z
+C X
+B Y
+B Y
+Y
+B Z
+C Y
+C Y
+B Y
+Z
+C X
+C Y
+Z
+C X
+C Z
+B Y
+X
+A Y
+C Z
+A X
+Z
+C X
+C Y
+Z
+C X
+Z
+C X
+B Y
+B Y
+Y
+B Z
+B X
+X
+A Y
+B X
+X
+A Y
+Z
+C X
+C Z
+B X
+B Y
+Z
+C X
+A X
+B Y
+Y
+B Z
+A X
+Y
+B Z
+Y
+B Z
+A X
+A Z
+B Y
+X
+A Y
+Y
+B Z
+X
+A Y
+Y
+B Z
+C Y
+C Z
+B Y
+B X
+B Y
+C Z
+C Z
+B X
+B X
+X
+A Y
+A X
+A Z
+X
+A Y
+B Y
+B Y
+C Y
+Z
+C X
+C Y
+C Y
+Y
+B Z
+A X
+Z
+C X
+C Y
+A X
+A Z
+X
+A Y
+C Z
+B X
+A Z
+X
+A Y
+Z
+C X
+B Y
+C Y
+Z
+C X
+Y
+B Z
+B Y
+C Y
+C Y
+Z
+C X
+A X
+C Y
+B Y
+A Z
+A X
+C Y
+C Y
+X
+A Y
+C Z
+B Y
+A X
+C Z
+X
+A Y
+B Y
+B X
+Z
+C X
+C Y
+B Y
+A X
+C Y
+B Y
+B X
+C Y
+B Y
+X
+A Y
+B Y
+C Y
+Z
+C X
+A X
+C Y
+A Z
+C Z
+Z
+C X
+Z
+C X
+Z
+C X
+Y
+B Z
+B X
+Z
+C X
+B Y
+Y
+B Z
+Z
+C X
+A Z
+Z
+C X
+B Y
+B Y
+C Z
+X
+A Y
+A Z
+C Y
+Y
+B Z
+Z
+C X
+A X
+C Y
+Z
+C X
+B X
+X
+A Y
+C Z
+A X
+Z
+C X
+X
+A Y
+B X
+C Y
+Z
+C X
+C Y
+Y
+B Z
+B Y
+C Y
+B Y
+C Y
+B Y
+C Y
+B X
+X
+A Y
+Y
+B Z
+Z
+C X
+C Y
+C Z
+X
+A Y
+C Y
+X
+A Y
+Y
+B Z
+Y
+B Z
+B X
+B Y
+Y
+B Z
+Z
+C X
+C Z
+Z
+C X
+Y
+B Z
+B Y
+C Y
+Z
+C X
+C Z
+Z
+C X
+A X
+A X
+C Z
+A X
+B Y
+Z
+C X
+A X
+C Y
+Y
+B Z
+A X
+B Y
+C Y
+C Y
+B Y
+C Y
+B Y
+Z
+C X
+C Y
+A X
+Z
+C X
+X
+A Y
+B Y
+Y
+B Z
+Z
+C X
+Z
+C X
+C Z
+B Y
+C Z
+Z
+C X
+B Y
+Z
+C X
+B X
+X
+A Y
+A Z
+B X
+Z
+C X
+B Y
+B Y
+B Y
+C Z
+Z
+C X
+A X
+X
+A Y
+B Y
+C Z
+Z
+C X
+Z
+C X
+C Y
+Z
+C X
+C Y
+Z
+C X
+Z
+C X
+C Z
+C Y
+Y
+B Z
+Z
+C X
+Z
+C X
+Z
+C X
+C Y
+B Y
+Z
+C X
+A X
+Z
+C X
+C Y
+C Z
+C Y
+C Z
+B Y
+Z
+C X
+B X
+X
+A Y
+C Z
+Z
+C X
+B X
+Z
+C X
+A Z
+B Y
+A X
+Z
+C X
+B Y
+Z
+C X
+Z
+C X
+Y
+B Z
+C Y
+B Y
+Z
+C X
+A X
+Y
+B Z
+B X
+C Y
+X
+A Y
+Z
+C X
+B Y
+Z
+C X
+Z
+C X
+B X
+B Y
+C Z
+C Y
+Z
+C X
+A Z
+Y
+B Z
+C Z
+C Z
+B Y
+B Y
+B X
+B Y
+Y
+B Z
+B Y
+Z
+C X
+B Y
+X
+A Y
+B X
+Y
+B Z
+B Y
+B X
+A Z
+Z
+C X
+Y
+B Z
+X
+A Y
+X
+A Y
+X
+A Y
+X
+A Y
+B Y
+C Z
+C Z
+A X
+Z
+C X
+B Y
+B Y
+B Y
+Z
+C X
+Z
+C X
+C Z
+C Y
+Y
+B Z
+C Z
+C Y
+Z
+C X
+B X
+X
+A Y
+C Y
+A Z
+C Y
+C Y
+A Z
+Z
+C X
+B Y
+C Y
+C Z
+B X
+B Y
+Z
+C X
+C Y
+B Y
+Y
+B Z
+Y
+B Z
+B Y
+C Y
+C Y
+B Y
+B X
+Z
+C X
+X
+A Y
+Z
+C X
+Y
+B Z
+B Y
+B X
+Z
+C X
+Z
+C X
+B X
+B Y
+Z
+C X
+B Y
+B Y
+A X
+C Y
+C Z
+B Y
+Z
+C X
+B X
+B Y
+Z
+C X
+C Z
+C Z
+B Y
+B Y
+A Z
+X
+A Y
+X
+A Y
+B Y
+B Y
+B Y
+C Y
+B X
+Z
+C X
+Z
+C X
+Y
+B Z
+B Y
+C Z
+Z
+C X
+C Y
+Z
+C X
+C Z
+A Z
+Z
+C X
+B Y
+B Y
+B Y
+B X
+Z
+C X
+B Y
+B Y
+A X
+Z
+C X
+X
+A Y
+B Y
+B Y
+X
+A Y
+X
+A Y
+A X
+Z
+C X
+A Z
+B X
+Y
+B Z
+C Y
+A X
+X
+A Y
+B Y
+B Y
+A X
+X
+A Y
+Z
+C X
+B Y
+B Y
+Z
+C X
+A Z
+X
+A Y
+X
+A Y
+C Y
+B Y
+C Y
+Y
+B Z
+B Y
+C Z
+B Y
+Z
+C X
+B Y
+Z
+C X
+B Y
+C Z
+Z
+C X
+A X
+A Z
+A Z
+C Y
+B Y
+A Z
+C Y
+C Z
+Z
+C X
+C Z
+Z
+C X
+X
+A Y
+B Y
+C Y
+C Y
+C Z
+Z
+C X
+B Y
+Z
+C X
+C Z
+B Y
+B Y
+A Z
+C Y
+C Y
+Y
+B Z
+X
+A Y
+C Y
+B Y
+C Y
+A Z
+Z
+C X
+B Y
+C Z
+Z
+C X
+C Y
+A Z
+Y
+B Z
+A X
+Z
+C X
+C Z
+B X
+B Y
+Z
+C X
+Y
+B Z
+Z
+C X
+C Y
+B Y
+C Y
+Y
+B Z
+B Y
+X
+A Y
+A X
+C Y
+A X
+Z
+C X
+Z
+C X
+X
+A Y
+C Z
+C Y
+X
+A Y
+B Y
+C Y
+A X
+X
+A Y
+B Y
+Z
+C X
+A X
+C Y
+C Y
+Z
+C X
+Z
+C X
+Z
+C X
+Y
+B Z
+B Y
+A X
+B Y
+Z
+C X
+C Y
+B X
+X
+A Y
+Z
+C X
+Z
+C X
+Z
+C X
+C Y
+A X
+X
+A Y
+X
+A Y
+Y
+B Z
+B X
+C Y
+B Y
+C Y
+C Z
+Z
+C X
+X
+A Y
+C Y
+C Z
+B Y
+B X
+C Y
+B Y
+C Z
+B Y
+B Y
+Z
+C X
+C Z
+C Z
+B Y
+A X
+B X
+A X
+B X
+Z
+C X
+B X
+Z
+C X
+C Z
+B Y
+X
+A Y
+C Y
+Y
+B Z
+C Y
+C Y
+C Y
+Z
+C X
+X
+A Y
+X
+A Y
+B Y
+X
+A Y
+Z
+C X
+C Z
+Y
+B Z
+A Z
+X
+A Y
+C Y
+B Y
+C Y
+Z
+C X
+Z
+C X
+X
+A Y
+Z
+C X
+C Z
+Y
+B Z
+Y
+B Z
+C Z
+B Y
+C Y
+B Y
+Y
+B Z
+Z
+C X
+B X
+Z
+C X
+Y
+B Z
+B Y
+B Y
+C Z
+Z
+C X
+C Y
+B Y
+C Y
+C Y
+Y
+B Z
+B X
+C Y
+B X
+Z
+C X
+Z
+C X
+B Y
+A X
+C Y
+Y
+B Z
+C Y
+C Z
+Z
+C X
+C Y
+X
+A Y
+C Y
+B Y
+B Y
+A X
+Z
+C X
+Y
+B Z
+B Y
+C Z
+C Z
+A X
+B Y
+B Y
+B Y
+Z
+C X
+Z
+C X
+X
+A Y
+B Y
+C Y
+C Z
+B Y
+Y
+B Z
+B Y
+B Y
+C Y
+Z
+C X
+Z
+C X
+A Z
+B Y
+Z
+C X
+Z
+C X
+Z
+C X
+B Y
+C Z
+Y
+B Z
+Z
+C X
+C Y
+C Y
+C Z
+B X
+Z
+C X
+B Y
+C Z
+Y
+B Z
+A X
+B Y
+Y
+B Z
+X
+A Y
+Z
+C X
+C Y
+Z
+C X
+B Y
+C Z
+B Y
+B Y
+X
+A Y
+B Y
+B Y
+B Y
+C Y
+C Y
+B Y
+Z
+C X
+Z
+C X
+B Y
+C Y
+Z
+C X
+C Y
+A X
+Z
+C X
+Z
+C X
+B Y
+A Z
+C Y
+B X
+A X
+C Y
+A Z
+B Y
+X
+A Y
+C Z
+C Z
+Z
+C X
+C Y
+B Y
+C Y
+Z
+C X
+B Y
+Z
+C X
+C Y
+Z
+C X
+Z
+C X
+X
+A Y
+X
+A Y
+Z
+C X
+A Z
+Z
+C X
+Z
+C X
+B X
+Z
+C X
+B Y
+C Y
+X
+A Y
+Z
+C X
+C Y
+Y
+B Z
+Z
+C X
+B Y
+X
+A Y
+C Z
+B X
+Y
+B Z
+A X
+B Y
+C Y
+C Z
+Z
+C X
+C Z
+A Z
+Z
+C X
+Z
+C X
+C Y
+B Y
+Z
+C X
+Y
+B Z
+B Y
+C Y
+Z
+C X
+C Z
+B Y
+C Z
+B Y
+A X
+B X
+Z
+C X
+Z
+C X
+Z
+C X
+C Y
+Y
+B Z
+C Y
+X
+A Y
+C Z
+Z
+C X
+C Y
+Z
+C X
+X
+A Y
+A X
+B X
+C Y
+Z
+C X
+Y
+B Z
+B X
+C Z
+B Y
+Y
+B Z
+C Y
+Z
+C X
+C Y
+B Y
+B Y
+C Y
+B X
+C Y
+C Y
+B Y
+B Y
+A X
+Y
+B Z
+Z
+C X
+X
+A Y
+Y
+B Z
+X
+A Y
+B Y
+Z
+C X
+Z
+C X
+X
+A Y
+B Y
+B Y
+B X
+C Y
+X
+A Y
+C Z
+Z
+C X
+A X
+Z
+C X
+Z
+C X
+Y
+B Z
+Y
+B Z
+A Z
+A Z
+C Z
+B X
 13131
