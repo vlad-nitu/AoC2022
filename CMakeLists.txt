@@ -3,4 +3,4 @@ project(AoC2022)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(AoC2022 06/06A.cpp)
+add_executable(AoC2022 06/06B.cpp)
