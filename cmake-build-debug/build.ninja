@@ -46,11 +46,11 @@ cmake_ninja_workdir = /Users/vladnitu/Desktop/TUDelft/Year2/Q2/AoC2022/cmake-bui
 
 build cmake_object_order_depends_target_AoC2022: phony || CMakeFiles/AoC2022.dir
 
-build CMakeFiles/AoC2022.dir/06/06B.cpp.o: CXX_COMPILER__AoC2022_Debug /Users/vladnitu/Desktop/TUDelft/Year2/Q2/AoC2022/06/06B.cpp || cmake_object_order_depends_target_AoC2022
-  DEP_FILE = CMakeFiles/AoC2022.dir/06/06B.cpp.o.d
+build CMakeFiles/AoC2022.dir/07/07A.cpp.o: CXX_COMPILER__AoC2022_Debug /Users/vladnitu/Desktop/TUDelft/Year2/Q2/AoC2022/07/07A.cpp || cmake_object_order_depends_target_AoC2022
+  DEP_FILE = CMakeFiles/AoC2022.dir/07/07A.cpp.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles/AoC2022.dir
-  OBJECT_FILE_DIR = CMakeFiles/AoC2022.dir/06
+  OBJECT_FILE_DIR = CMakeFiles/AoC2022.dir/07
 
 
 # =============================================================================
@@ -60,7 +60,7 @@ build CMakeFiles/AoC2022.dir/06/06B.cpp.o: CXX_COMPILER__AoC2022_Debug /Users/vl
 #############################################
 # Link the executable AoC2022
 
-build AoC2022: CXX_EXECUTABLE_LINKER__AoC2022_Debug CMakeFiles/AoC2022.dir/06/06B.cpp.o
+build AoC2022: CXX_EXECUTABLE_LINKER__AoC2022_Debug CMakeFiles/AoC2022.dir/07/07A.cpp.o
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk
   OBJECT_DIR = CMakeFiles/AoC2022.dir
   POST_BUILD = :
