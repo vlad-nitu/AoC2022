@@ -1,5 +1,6 @@
 #pragma once
 #define NMAX 1001
+#define ll long long
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -22,10 +23,10 @@ struct hash_pair {
 
 };
 
-unordered_set<pair<int, int>, hash_pair> vis;
+unordered_set<pair<ll, ll>, hash_pair> vis;
 string pos, aux;
-unordered_map<string, pair<int, int>> dirs;
-int n;
+unordered_map<string, pair<ll, ll>> dirs;
+ll n;
 int main()
 {
 
@@ -34,23 +35,21 @@ int main()
     dirs["U"] = {0, 1};
     dirs["D"] = {0, -1};
 
-    vector<pair<int, int>> pairs;
-    for (int i = 0; i < 10; ++i)
-        pairs.push_back({0,0});
+    vector<pair<ll, ll>> pairs(10, {0, 0});
     vis.insert({0, 0});
 
     while (f >> pos >> aux) {
         n = stoi(aux);
 //        g << pos << ' ' << aux << '\n';
-        for (int k = 0; k < n; ++k) {
+        for (ll k = 0; k < n; ++k) {
 
-        int dx = dirs[pos].first;
-        int dy = dirs[pos].second;
+        ll dx = dirs[pos].first;
+        ll dy = dirs[pos].second;
         pairs[0] = {pairs[0].first + dx, pairs[0].second + dy};
 
-        for (int i = 0; i < 9; ++i) {
-            pair<int, int> head = pairs[i];
-            pair<int, int> tail = pairs[i + 1];
+        for (ll i = 0; i < 9; ++i) {
+            pair<ll, ll>& head = pairs[i];
+            pair<ll, ll>& tail = pairs[i + 1];
 
             if (abs(head.first - tail.first) > 1) {
                 tail.first += (head.first - tail.first) / 2;
@@ -65,10 +64,9 @@ int main()
                     tail.first = head.first;
             }
 
-            pairs[i + 1] = tail;
         }
 
-        vis.insert(pairs[9]);
+        vis.insert(pairs.back());
     }
 
 
