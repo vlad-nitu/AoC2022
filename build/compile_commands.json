@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/vladnitu/Desktop/TUDelft/Year2/Q2/AoC2022/build",
+  "command": "/usr/local/bin/g++-12   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -o CMakeFiles/AoC2022.dir/011/011B.cpp.o -c /Users/vladnitu/Desktop/TUDelft/Year2/Q2/AoC2022/011/011B.cpp",
+  "file": "/Users/vladnitu/Desktop/TUDelft/Year2/Q2/AoC2022/011/011B.cpp"
+}
+]
