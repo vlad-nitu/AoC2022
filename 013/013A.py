@@ -1,22 +1,22 @@
-with open("./013A.in") as fin:
+with open("013A.in") as fin:
     parts = fin.read().strip().split("\n\n")
 
 
 def compare(a, b):
-    if isinstance(a, list) and isinstance(b, int):
+    if type(a) == list and type(b) == int:
         b = [b]
 
-    if isinstance(a, int) and isinstance(b, list):
+    if type(a) == int and type(b) == list:
         a = [a]
 
-    if isinstance(a, int) and isinstance(b, int):
+    if type(a) == int and type(b) == int:
         if a < b:
             return 1
         if a == b:
             return 0
         return -1
 
-    if isinstance(a, list) and isinstance(b, list):
+    if type(a) == list and type(b) == list:
         i = 0
         while i < len(a) and i < len(b):
             x = compare(a[i], b[i])

@@ -5,21 +5,20 @@ with open("./013B.in") as fin:
 
 
 def compare(a, b):
-    if isinstance(a, list) and isinstance(b, int):
+    if type(a) == list and type(b) == int:
         b = [b]
 
-    if isinstance(a, int) and isinstance(b, list):
+    if type(a) == int and type(b) == list:
         a = [a]
 
-    if isinstance(a, int) and isinstance(b, int):
+    if type(a) == int and type(b) == int:
         if a < b:
             return 1
-        elif a == b:
+        if a == b:
             return 0
-        else:
-            return -1
+        return -1
 
-    if isinstance(a, list) and isinstance(b, list):
+    if type(a) == list and type(b) == list:
         i = 0
         while i < len(a) and i < len(b):
             x = compare(a[i], b[i])
@@ -30,10 +29,11 @@ def compare(a, b):
 
             i += 1
 
-        if i == len(a) and i == len(b):
-            return 0
-        elif i == len(a):
+        if i == len(a):
+            if len(a) == len(b):
+                return 0
             return 1  # a ended first
+
         #   This means that b is shorter, which is bad
         else:
             return -1
