@@ -38,7 +38,6 @@ def compare(a, b):
 
 
 ans = 0
-
 for i, block in enumerate(parts):
     a, b = map(eval, block.split("\n"))
     if compare(a, b) == 1:

@@ -1,11 +1,6 @@
-from tqdm import tqdm
-
-with open("./day_15.in") as fin:
+with open("./015B.in") as fin:
     lines = fin.read().strip().split("\n")
 
-
-# def dist(x1, y1, x2, y2):
-#     return abs(x1 - x2) + abs(y1 - y2)
 
 def dist(a, b):
     return abs(a[0] - b[0]) + abs(a[1] - b[1])
@@ -24,13 +19,11 @@ for line in lines:
     sensors.append((sx, sy))
     beacons.append((bx, by))
 
-
 N = len(sensors)
 dists = []
 
 for i in range(N):
     dists.append(dist(sensors[i], beacons[i]))
-
 
 pos_lines = []
 neg_lines = []
@@ -39,7 +32,6 @@ for i, s in enumerate(sensors):
     d = dists[i]
     neg_lines.extend([s[0] + s[1] - d, s[0] + s[1] + d])
     pos_lines.extend([s[0] - s[1] - d, s[0] - s[1] + d])
-
 
 pos = None
 neg = None
@@ -55,7 +47,6 @@ for i in range(2 * N):
 
         if abs(a - b) == 2:
             neg = min(a, b) + 1
-
 
 x, y = (pos + neg) // 2, (neg - pos) // 2
 ans = x * 4000000 + y

@@ -66,40 +66,6 @@ ll ans = 0;
 string line, token;
 int maxX, maxY, maxZ;
 unordered_set<std::tuple<int, int, int>, hash_tuple> SET;
-unordered_set<std::tuple<int, int, int>, hash_tuple> vis;
-
-bool DFS(const std::tuple<int, int, int>& point) {
-
-    auto [x, y, z] = point;
-    vis.insert(point);
-    dbg(point);
-
-    if (x == 0 || y == 0 || z == 0 || x == 30 || y == 30 || z == 30)
-        return true;
-
-    bool canGetOut = false;
-
-    if (SET.find(mkt(x-1, y, z)) == SET.end() && vis.find(mkt(x-1, y, z)) == vis.end())
-        canGetOut |= DFS(mkt(x-1, y, z));
-
-    if (SET.find(mkt(x+1, y, z)) == SET.end() && vis.find(mkt(x+1, y, z)) == vis.end())
-        canGetOut |= DFS(mkt(x+1, y, z));
-
-    if (SET.find(mkt(x, y-1, z)) == SET.end() && vis.find(mkt(x, y-1, z)) == vis.end())
-        canGetOut |= DFS(mkt(x, y-1, z));
-
-    if (SET.find(mkt(x, y+1, z)) == SET.end() && vis.find(mkt(x, y+1, z)) == vis.end())
-        canGetOut |= DFS(mkt(x, y+1, z));
-
-    if (SET.find(mkt(x, y, z-1)) == SET.end() && vis.find(mkt(x, y, z-1)) == vis.end())
-        canGetOut |= DFS(mkt(x, y, z-1));
-
-    if (SET.find(mkt(x, y, z+1)) == SET.end() && vis.find(mkt(x, y, z+1)) == vis.end())
-        canGetOut |= DFS(mkt(x, y, z+1));
-
-    return canGetOut;
-
-}
 
 int main() {
 
@@ -115,21 +81,32 @@ int main() {
         z = stoi(token);
 
         auto point = make_tuple(x, y, z);
-        maxX = max(maxX, x);
-        maxY = max(maxY, y);
-        maxZ = max(maxZ, z);
+        dbg(point);
         SET.insert(point);
     }
 
-    dbg(SET.size());
-
-    for (const std::tuple<int, int, int>& point: SET)
+    for (const auto& point: SET)
     {
-        vis.clear();
+        int x = std::get<0>(point);
+        int y = std::get<1>(point);
+        int z = std::get<2>(point);
 
-        auto [x, y, z] = point;
+        if (SET.find(mkt(x-1, y, z)) == SET.end())
+            ans ++;
 
-        if (DFS(point))
+        if (SET.find(mkt(x+1, y, z)) == SET.end())
+            ans ++;
+
+        if (SET.find(mkt(x, y-1, z)) == SET.end())
+            ans ++;
+
+        if (SET.find(mkt(x, y+1, z)) == SET.end())
+            ans ++;
+
+        if (SET.find(mkt(x, y, z-1)) == SET.end())
+            ans ++;
+
+        if (SET.find(mkt(x, y, z+1)) == SET.end())
             ans ++;
     }
 
